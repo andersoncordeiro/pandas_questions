@@ -1,0 +1,8 @@
+1:
+- Crie um notebook apresentando iloc e loc.
+- Utilize qualquer dataframe de sua preferencia.
+- Apresente as principais diferenças
+- Demontre casos onde o iloc não funcionaria e o loc sim.
+- Explore o DataFrame e apresente as principais características
+- Seu notebook precisa se alternar entre código e markdown. 
+- Conte uma história.
