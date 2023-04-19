@@ -1,0 +1,4 @@
+### Trate todos os valores nulos (mean, median, mode) pq?
+### Exiba os carros acima da média de preço
+### Crie os seguintes filtros: conversiveis, volkswagen, 4 cilindros, tamanho do motor > 120
+### Explore o dataframe e traga dúvidas (loc, iloc, rename, drop, dropna, fillna, filtros)
