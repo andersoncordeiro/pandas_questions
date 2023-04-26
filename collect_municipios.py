@@ -5,6 +5,7 @@ import unicodedata
 
 URL = 'https://raw.githubusercontent.com/andersoncordeiro/datasets/main/arq_municipios_fronteiricos.csv'
 
+
 def converte_object_decimais(valor):
     return int(valor.replace(" ", "").replace(".",""))
 
